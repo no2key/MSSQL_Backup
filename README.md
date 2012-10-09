@@ -25,11 +25,10 @@
 > Email: <vibbow@gmail.com>  
 > Blog: <http://vsean.net/>
 
-
 ------
 
 # **MSSQL Backup Tool** (Backup / Compress / Auto Clean)
-An PHP based MSSQL backup tool, can backup database, compress back, autoclean old backup in single process.
+An PHP based MSSQL backup tool, can backup database, compress backup, autoclean old backup in single process.
 
 ## How to use it
 The code is based on PHP, but only can run in command line envirement. Also you need to enable the php-mssql extension.  
